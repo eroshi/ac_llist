@@ -1,0 +1,26 @@
+#**********************************************************************
+# 11.24
+# 2018年11月24日11:17:11
+# 转载需要注明版权和来源
+# 全部规则来自GFWList 没有白名单
+#
+# 更新记录 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/more/New.md
+# 下载地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
+#
+#**********************************************************************
+
+[bypass_all]
+### 默认直连 自己可以自定义
+
+#**********************************************************************
+[proxy_list]
+
+# MyList
+(^|\.)bilibili\.com$
+(^|\.)s3\.amazonaws\.com$
+(^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
+(^|\.)raw\.githubusercontent\.com$
